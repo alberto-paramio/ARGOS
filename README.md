@@ -233,4 +233,4 @@ van den Heuvel, C., Alison, L., & Power, N. (2014). Coping with uncertainty: Pol
 
 ---
 
-<p align="center">🛡️ ARGOS v0.1.0 · Universidad de Huelva · 2026</p>
+<p align="center">🛡️ ARGOS v0.1.0 · © Alberto Paramio Leiva · 2026</p>
