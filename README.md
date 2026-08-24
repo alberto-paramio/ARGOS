@@ -28,8 +28,9 @@ El objetivo inicial es **formativo**. ARGOS no se presenta como instrumento de s
 🏛️ Departamento de Psicología Clínica y Experimental · Área de Psicología Básica  
 🔗 [ORCID 0000-0003-2904-1239](https://orcid.org/0000-0003-2904-1239)  
 🔬 [Perfil investigador en la Universidad de Huelva](https://produccioncientifica.uhu.es/investigadores/2483683/detalle)
+✉️ [alberto.paramio@dpces.uhu.es](alberto.paramio@dpces.uhu.es)
 
-## 🎯 Finalidades del entrenamiento
+## 🎯 Finalidades del entrenamiento]
 
 ARGOS pretende ofrecer práctica deliberada sobre procesos como:
 
@@ -179,6 +180,7 @@ ARGOS v0.1 dispone de un prototipo funcional para HTML, PWA y Android. La fase a
 ### Demostración
 
 > 🔗 **Demostración pública:** [ARGOS-v0.1.0.html](https://github.com/alberto-paramio/ARGOS/releases/download/0-1-0/ARGOS-v0.1.0.html)
+
 > 🔗 **Versión para Android:** [ARGOS-v0.1.0.apk](https://github.com/alberto-paramio/ARGOS/releases/download/0-1-0/ARGOS-v0.1.0.apk).
 
 La futura demostración pública incluirá una selección limitada de contenidos. El banco completo, las reglas internas y el código fuente permanecen en un repositorio privado.
