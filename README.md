@@ -14,7 +14,7 @@
 
 ## 🧭 ¿Qué es ARGOS?
 
-ARGOS es un prototipo universitario para entrenar la toma de decisiones naturalística de alumnado de la Escuela de Oficiales y agentes en activo de la Guardia Civil. Utiliza actividades breves y escenarios en los que la persona debe decidir con información incompleta, presión temporal, incertidumbre, riesgos concurrentes y cursos de acción imperfectos.
+ARGOS es una aplicación en fase de desarrollo para entrenar la toma de decisiones naturalística de alumnado de la Escuela de Oficiales y agentes en activo de la Guardia Civil. Utiliza actividades breves y escenarios en los que la persona debe decidir con información incompleta, presión temporal, incertidumbre, riesgos concurrentes y cursos de acción imperfectos.
 
 El objetivo inicial es **formativo**. ARGOS no se presenta como instrumento de selección, acreditación o evaluación profesional. Los escenarios, referencias y sistemas de puntuación deben someterse a revisión experta, pilotaje y aprobación ética antes de utilizarse en una investigación con participantes reales.
 
@@ -165,8 +165,6 @@ La versión 0.1 es un prototipo local. Todavía no dispone de servidor multiusua
 - Antes de un estudio se requiere consentimiento informado y aprobación del comité de ética correspondiente.
 - El sistema de puntuación y los escenarios necesitan validación de contenido y pilotaje.
 
-Consulta [Privacidad, ética y límites](docs/PRIVACIDAD_ETICA.md) para más información.
-
 ## 🚧 Estado del proyecto
 
 ARGOS v0.1 dispone de un prototipo funcional para HTML, PWA y Android. La fase actual se centra en:
@@ -180,7 +178,8 @@ ARGOS v0.1 dispone de un prototipo funcional para HTML, PWA y Android. La fase a
 
 ### Demostración
 
-> 🔗 **Demostración pública:** pendiente de publicación.
+> 🔗 **Demostración pública:** [`Argos`](ARGOS.html).
+> 🔗 **Versión para Android:** [`Argos.apk`](ARGOS-v0.1.0-debug.apk).
 
 La futura demostración pública incluirá una selección limitada de contenidos. El banco completo, las reglas internas y el código fuente permanecen en un repositorio privado.
 
