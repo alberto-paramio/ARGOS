@@ -19,5 +19,3 @@ Las citas, resúmenes académicos y enlaces al repositorio deberán respetar la 
 Las publicaciones científicas, marcas, tipografías y componentes de terceros citados conservan sus propios derechos y licencias. Esta nota no amplía ni limita los derechos de sus respectivos titulares.
 
 ARGOS es un prototipo universitario independiente, no una aplicación oficial de la Guardia Civil. Se proporciona sin garantías y no sustituye normativa, procedimientos, órdenes, protocolos ni formación institucional.
-
-> Esta nota constituye una reserva de derechos del proyecto, no asesoramiento jurídico. La titularidad y estrategia de protección deberán revisarse con los servicios competentes de la Universidad de Huelva antes de una transferencia o explotación formal.
