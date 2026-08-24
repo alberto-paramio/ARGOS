@@ -98,7 +98,7 @@ ARGOS utiliza un perfil breve para evitar que el alta se convierta en una sesió
 
 Se solicitan únicamente:
 
-- Género, incluyendo «prefiero no responder».
+- Género.
 - Edad.
 - Categoría profesional.
 - Años de experiencia.
