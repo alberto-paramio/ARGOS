@@ -1,0 +1,42 @@
+# Código y compilaciones de ARGOS
+ARGOS.html
+PROYECTO_FUENTE/
+standalone-src/
+public/
+android-web/
+android/
+scripts/
+app/
+node_modules/
+package.json
+package-lock.json
+pnpm-lock.yaml
+pnpm-workspace.yaml
+
+# Aplicaciones, paquetes y archivos descargables
+*.apk
+*.aab
+*.zip
+
+# Cuestionarios y documentos fuente con derechos propios
+*.pdf
+General decision-making.pdf
+Ten-Item-Personality Inventory.pdf
+
+# Documentación interna
+ARGOS_12_ESCENARIOS_COMPLETOS.md
+BANCO_60_ESCENARIOS_ARGOS.md
+ESPECIFICACION_FUNCIONAL_ARGOS_GC.md
+INTEGRACION_DISPUTE_LUCIFER_NDM.md
+SUMAS_SHA256.txt
+
+# Datos, configuración privada y firma
+.env
+.env.*
+*.jks
+*.keystore
+*.p12
+*.pem
+*.key
+datos/
+resultados/
