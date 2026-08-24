@@ -178,8 +178,8 @@ ARGOS v0.1 dispone de un prototipo funcional para HTML, PWA y Android. La fase a
 
 ### Demostración
 
-> 🔗 **Demostración pública:** [`Argos`](ARGOS.html).
-> 🔗 **Versión para Android:** [`Argos.apk`](ARGOS-v0.1.0-debug.apk).
+> 🔗 **Demostración pública:** [`Argos`]([ARGOS.html](https://github.com/alberto-paramio/ARGOS/releases/download/0-1-0/ARGOS-v0.1.0.html)).
+> 🔗 **Versión para Android:** [`Argos.apk`]([ARGOS-v0.1.0-debug.apk](https://github.com/alberto-paramio/ARGOS/releases/download/0-1-0/ARGOS-v0.1.0.apk)).
 
 La futura demostración pública incluirá una selección limitada de contenidos. El banco completo, las reglas internas y el código fuente permanecen en un repositorio privado.
 
