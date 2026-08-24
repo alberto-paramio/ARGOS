@@ -28,6 +28,7 @@ El objetivo inicial es **formativo**. ARGOS no se presenta como instrumento de s
 🏛️ Departamento de Psicología Clínica y Experimental · Área de Psicología Básica  
 🔗 [ORCID 0000-0003-2904-1239](https://orcid.org/0000-0003-2904-1239)  
 🔬 [Perfil investigador en la Universidad de Huelva](https://produccioncientifica.uhu.es/investigadores/2483683/detalle)
+
 ✉️ [alberto.paramio@dpces.uhu.es](alberto.paramio@dpces.uhu.es)
 
 ## 🎯 Finalidades del entrenamiento]
