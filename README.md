@@ -18,7 +18,7 @@ ARGOS es una aplicación en fase de desarrollo para entrenar la toma de decision
 
 El objetivo inicial es **formativo**. ARGOS no se presenta como instrumento de selección, acreditación o evaluación profesional. Los escenarios, referencias y sistemas de puntuación deben someterse a revisión experta, pilotaje y aprobación ética antes de utilizarse en una investigación con participantes reales.
 
-> [!IMPORTANTE]
+> [!IMPORTANT]
 > ARGOS es un proyecto académico independiente. No es una aplicación oficial de la Guardia Civil y no sustituye normativa, procedimientos, órdenes, protocolos ni formación institucional.
 
 ## 👤 Autoría
