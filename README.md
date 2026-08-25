@@ -10,7 +10,7 @@
   🛡️ Guardia Civil · 🧠 Toma de decisiones naturalística · 🎮 Microentrenamiento · 📱 Web y Android
 </p>
 
-<p align="center"><code>versión 0.1.0</code> · <code>prototipo de investigación</code> · <code>Universidad de Huelva</code></p>
+<p align="center"><code>versión 0.1.0</code></p>
 
 ## 🧭 ¿Qué es ARGOS?
 
