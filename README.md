@@ -10,7 +10,7 @@
   🛡️ Guardia Civil · 🧠 Toma de decisiones naturalística · 🎮 Microentrenamiento · 📱 Web y Android
 </p>
 
-<p align="center"><code>versión 0.1.0</code></p>
+<p align="center"><code>versión 0.1</code></p>
 
 ## 🧭 ¿Qué es ARGOS?
 
@@ -30,7 +30,7 @@ El objetivo inicial es **formativo**. ARGOS no se presenta como instrumento de s
 🔬 [Perfil investigador en la Universidad de Huelva](https://produccioncientifica.uhu.es/investigadores/2483683/detalle)  
 ✉️ [alberto.paramio@dpces.uhu.es](alberto.paramio@dpces.uhu.es)
 
-## 🎯 Finalidades del entrenamiento]
+## 🎯 Finalidades del entrenamiento
 
 ARGOS pretende ofrecer práctica deliberada sobre procesos como:
 
