@@ -201,13 +201,7 @@ La publicación de esta documentación no concede permiso para copiar, modificar
 
 Alacreu-Crespo, A., Fuentes, M. C., Abad-Tortosa, D., Cano-Lopez, I., González, E., & Serrano, M. Á. (2019). Spanish validation of General Decision-Making Style scale: Sex invariance, sex differences and relationships with personality and coping styles. *Judgment and Decision Making, 14*(6), 739–751. https://doi.org/10.1017/S1930297500005453
 
-Bechara, A., Damasio, A. R., Damasio, H., & Anderson, S. W. (1994). Insensitivity to future consequences following damage to human prefrontal cortex. *Cognition, 50*(1–3), 7–15. https://doi.org/10.1016/0010-0277(94)90018-3
-
-Clark, L., Robbins, T. W., Ersche, K. D., & Sahakian, B. J. (2006). Reflection impulsivity in current and former substance users. *Biological Psychiatry, 60*(5), 515–522. https://doi.org/10.1016/j.biopsych.2005.11.007
-
 Dailey, S. F., Campbell, L. N. P., & Ramsdell, J. (2024). Law enforcement officer naturalistic decision-making in high-stress conditions. *Policing: An International Journal, 47*(6), 929–948. https://doi.org/10.1108/PIJPSM-09-2023-0114
-
-Dirección General de la Guardia Civil. (s. f.). *Cuándo dirigirse a la Guardia Civil*. Ministerio del Interior. https://web.guardiacivil.es/es/tramites/cuandirigirsegc-00001/index.html
 
 Gosling, S. D., Rentfrow, P. J., & Swann, W. B. (2003). A very brief measure of the Big-Five personality domains. *Journal of Research in Personality, 37*(6), 504–528. https://doi.org/10.1016/S0092-6566(03)00046-1
 
@@ -216,6 +210,14 @@ Harris, K. R., Eccles, D. W., Freeman, C., & Ward, P. (2017). ‘Gun! Gun! Gun!�
 Jenkins, B., Semple, T., & Bennell, C. (2021). An evidence-based approach to critical incident scenario development. *Policing: An International Journal, 44*(3), 437–454. https://doi.org/10.1108/PIJPSM-02-2020-0017
 
 Lejuez, C. W., Read, J. P., Kahler, C. W., Richards, J. B., Ramsey, S. E., Stuart, G. L., Strong, D. R., & Brown, R. A. (2002). Evaluation of a behavioral measure of risk taking: The Balloon Analogue Risk Task (BART). *Journal of Experimental Psychology: Applied, 8*(2), 75–84. https://doi.org/10.1037/1076-898X.8.2.75
+
+Paramio, A. (2025). Entrenamiento metacognitivo para la toma de decisiones: fundamentos y aplicaciones. En J. C. Rodríguez Rodríguez (Ed.), *Investigación y prácticas emergentes en sociedad, educación y psicología* (pp. 327–339). Dykinson.
+
+Paramio, A. (2025). Post-decision processes in police decision-making: a cognitive-affective perspective. En *Psicología y cambio: aplicaciones innovadoras* (pp. 921–941). Dykinson.
+
+Paramio, A. (2026). *Toma de decisiones: Teorías, perspectivas y fundamentos básicos para estudiantes universitarios*. Octaedro. https://doi.org/10.36006/09785-1
+
+Paramio, A., & Tejeiro, R. (2025). Challenges in Police Force training. En *The educational revolution: new perspectives and innovative practices* (pp. 27–41). Dykinson.
 
 Renau, V., Oberst, U., Gosling, S. D., Rusiñol, J., & Chamarro, A. (2013). Translation and validation of the Ten-Item Personality Inventory into Spanish and Catalan. *Aloma, 31*(2), 85–97.
 
